@@ -1,0 +1,30 @@
+# Byte-compiled
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Word & Documents
+*.docx
+*.docm
+*.dotx
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Media
+*.mp4
+*.avi
+*.mov
+...
+
+# Model weights & logs
+*.pth
+*.pt
+*.pkl
+*.onnx
+...
+weights/
+runs/
+/home/sxq/data/datasets
