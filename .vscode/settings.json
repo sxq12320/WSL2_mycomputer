@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "/home/sxq/opencv/bin/python",
+    "python.analysis.extraPaths": [
+        "/home/sxq/opencv/lib/python3.10/site-packages"
+    ],
+    "python.analysis.typeCheckingMode": "basic"
+}
