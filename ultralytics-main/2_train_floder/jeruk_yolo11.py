@@ -28,7 +28,7 @@ if __name__ == "__main__":
         device=0,
         cache=False,
         seed=SEED,
-        amp = True,
+        amp = False,
         dropout = 0.1,
 
         copy_paste=0.5,   # 图像复制
