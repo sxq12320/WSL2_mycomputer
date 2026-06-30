@@ -4,14 +4,26 @@ __pycache__/
 *$py.class
 
 # Word & Documents
+*.doc
 *.docx
 *.docm
 *.dotx
+*.dotm
 
 # Archives
 *.zip
 *.rar
 *.7z
+
+# 虚拟环境
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.venv/        
+venv/
+env/
 
 # Media
 *.mp4
@@ -28,3 +40,5 @@ __pycache__/
 weights/
 runs/
 /home/sxq/data/datasets/
+data/datasets/
+datasets/
